@@ -48,3 +48,6 @@ catch(error){
     console.log(error);
 }}
 processData();
+//try ve cath blogunu promise değil de async kullandığımızda
+//kullanmamız gerekir bir hata varsa belirleme işini promise yapabilir
+//async yapamaz o yüzden try catch ile destek veriririz
