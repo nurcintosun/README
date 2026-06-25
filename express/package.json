@@ -1,0 +1,24 @@
+{
+  "name": "github1",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nurcintosun/README#readme",
+  "bugs": {
+    "url": "https://github.com/nurcintosun/README/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurcintosun/README.git"
+  },
+  "license": "ISC",
+  "author": "",
+  
+  "main": "express.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
