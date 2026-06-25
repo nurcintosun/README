@@ -1,0 +1,26 @@
+{
+  "name": "github1",
+  "version": "1.0.0",
+  "description": "note test",
+  "keywords": [],
+  "homepage": "https://github.com/nurcintosun/README#readme",
+  "bugs": {
+    "url": "https://github.com/nurcintosun/README/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurcintosun/README.git"
+  },
+  "license": "ISC",
+  "author": "nurcin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "s": "node index0"
+  },
+  "dependencies": {
+    "clear": "^0.1.0",
+    "moment": "^2.30.1"
+  }
+}
